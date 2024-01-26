@@ -1,6 +1,6 @@
-## Practicum-3-Repo
-Repo for Practicum 3 - Java Basics - Identifiers in Java
-# Identifier Naming in Java
+# Instructions  
+
+## Practicum 3 - Identifier Naming in Java
 
 **BACKGROUND**<br>
 Different programming languages have their own rules for identifier
